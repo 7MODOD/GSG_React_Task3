@@ -1,0 +1,12 @@
+.myLabel{
+    display: block;
+    /*  */
+}
+.myInput{
+    width: 100%;
+}
+.myComponent{
+    display:"block";
+    width: 90%;
+    /* margin-top: 5%; */
+}
